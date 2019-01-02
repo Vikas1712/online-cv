@@ -7,31 +7,28 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Vikas Yadav
+    tagline: Test Automation Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: dnsvikas@gmail.com
+    phone: 068 467 0690
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: vikas1712
+    github: vikas1712
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@dnsvikas'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Hindi
         level: Professional
 
     interests:
@@ -47,13 +44,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+       Highly motivated and Multi- talented Automation Test Engineer with extensive 
+       working experience in every phase of software development life cycles. 
+       – Selenium using Java, C# and Python, Cucumber, Protractor, Specflow, 
+       Cloud-based tools like Browserstack etc. 
+       Well versed with Usability, GUI, Functional, System and Regression testing.
+       A purpose-driven professional specializing in software quality assurance testing. 
+       Skilled in tackling problems in unique ways to develop innovative solutions.
+    
 
 education:
     - degree: MSc in Computer Science
