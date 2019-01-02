@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: dnsvikas@gmail.com
     phone: 068 467 0690
-    website: blog.webjeda.com #do not add http://
+    website: youtu.be/W5IhszBtbAM #do not add http://
     linkedin: vikas1712
     github: vikas1712
     gitlab:
@@ -29,13 +29,13 @@ sidebar:
         level: Professional
 
       - idiom: Hindi
-        level: Professional
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Soccer / Football
         link:
 
-      - item: Snowboarding
+      - item: Boxing
         link:
 
       - item: Cooking
@@ -46,17 +46,19 @@ career-profile:
     summary: |
        Highly motivated and Multi- talented Automation Test Engineer with extensive 
        working experience in every phase of software development life cycles. 
-       – Selenium using Java, C# and Python, Cucumber, Protractor, Specflow, 
+       
+       Selenium using Java, C# and Python, Cucumber, Protractor, Specflow, 
        Cloud-based tools like Browserstack etc. 
+       
        Well versed with Usability, GUI, Functional, System and Regression testing.
        A purpose-driven professional specializing in software quality assurance testing. 
        Skilled in tackling problems in unique ways to develop innovative solutions.
     
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MCA in Computer Science
+      university: University of Pune
+      time: 2014 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -67,9 +69,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BCA in Computer Application
+      university: University of Pune
+      time: 2011 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -81,35 +83,29 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Test Automation Engineer 
+      time: Jan 2018 - Present
+      company: T-mobile Netherlands B.V. (AtoS) , The Hague
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+      
+          - Developed automated test scripts for regression testing based on the new feature developed in the previous sprint using Selenium.
+          - Created and built the framework to test associate web portals then integrated into CI/CD pipeline using TFS.
+          - Develop end-to-end automation solutions for testing of web-based applications.
+          - Performed Unit testing, Integration Testing, sanity Testing and also handled Production/Go-Live.
+          - Tested ETL mappings to extract and load data from different databases such as Salesforce, Oracle and flat files and loaded them into Teradata.
+          - Implemented Data Driven Framework tool to use end to end testing solution which can operate at various layers in the data warehouse architecture.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Test Automation Engineer
+      time: Dec 2014 - Nov 2017
+      company: Siemens Automation (AtoS) , Pune , India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Expanded manual and automated testing to cover new functionality.
+          - Identify Automation Scope.
+          - Developed test scripts for GUI, functionality and regression testing using Selenium.
+          - Prepared the Manual test cases that weren't covered under Automation process.
+          - Collaborated with developers, testers and/or end users to determine appropriate solutions and ensure test planning adheres to the proper requirements.
+          - Provided reports on automation coverage, issues and prospects.
 
     - role: UI Developer
       time: 2012 - 2014
