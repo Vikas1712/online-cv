@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,37 +7,35 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Vikas Yadav
+    tagline: QA Test Automation Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: dnsvikas@gmail.com
+    phone: 068 467 0690
+    website: youtu.be/W5IhszBtbAM #do not add http://
+    linkedin: vikas1712
+    github: vikas1712
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@dnsvikas'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-        
     interests:
-      - item: Climbing
+      - item: Soccer / Football
         link:
 
-      - item: Snowboarding
+      - item: Surfing Internet
         link:
 
       - item: Cooking
@@ -46,18 +44,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+       Highly motivated and Multi- talented Automation Test Engineer with extensive 
+       working experience in every phase of software development life cycles. 
+       
+       Selenium using Java, C# and Python, Cucumber, Protractor, Specflow, 
+       Cloud-based tools like Browserstack etc. 
+       
+       Well versed with Usability, GUI, Functional, System and Regression testing.
+       A purpose-driven professional specializing in software quality assurance testing. 
+       Skilled in tackling problems in unique ways to develop innovative solutions.
+    
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MCA in Computer Science
+      university: University of Pune
+      time: 2014 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,11 +67,11 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BCA in Computer Application
+      university: University of Pune
+      time: 2011 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,51 +80,51 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+experiences and projects:
+    - role: Test Automation Engineer 
+      time: Jan 2018 - Present
+      company: T-mobile Netherlands B.V. (AtoS) , The Hague
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+      
+          - Developed automated test scripts for regression testing based on the new feature developed in the previous sprint using Selenium.
+          - Created and built the framework to test associate web portals then integrated into CI/CD pipeline using TFS.
+          - Develop end-to-end automation solutions for testing of web-based applications.
+          - Performed Unit testing, Integration Testing, sanity Testing and also handled Production/Go-Live.
+          - Tested ETL mappings to extract and load data from different databases such as Salesforce, Oracle and flat files and loaded them into Teradata.
+          - Implemented Data Driven Framework tool to use end to end testing solution which can operate at various layers in the data warehouse architecture.
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Test Automation Engineer
+      time: Dec 2016 - Nov 2017
+      company: Siemens Automation (AtoS) , Pune , India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Expanded manual and automated testing to cover new functionality.
+          - Identify Automation Scope.
+          - Developed test scripts for GUI, functionality and regression testing using Selenium.
+          - Prepared the Manual test cases that weren't covered under Automation process.
+          - Collaborated with developers, testers and/or end users to determine appropriate solutions and ensure test planning adheres to the proper requirements.
+          - Provided reports on automation coverage, issues and prospects.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Test Engineer
+      time: Jan 2016 - October 2016
+      company: WorldLine (AtoS), Pune , India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Experience in Cloud based cross-browser testing tools like excellent problem-solving abilities BrowserStack.
+          - Reviewed, evaluated and identified requirements for testability.
+          - Attended meetings with quality assurance, developers and project managers to assess scope and sequence of project.
+          - Completed automation of functional and regression testing
+
+          
+    - role: iOS Developer
+      time: July 2015 - Nov 2015
+      company: Avion Technologies, Pune
+      details: |
+
+          - Developed iOS apps using Objective – C language
+          - Worked on SQLite, Storyboards, Auto Layout , Cocoa Touch etc.
 
 projects:
     title: Projects
@@ -153,46 +154,40 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+Certifications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: OCJP - Oracle Certified Associate Java Programmer.
+        authors: Oracle 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: ISTQB - International Software Testing Qualification Board.
+        authors: International Testing Board.
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Accolade bronze Award - GDC India awarded for Active Contribution in Siemens project
+        authors: Testing Practice India
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Selenium & Cucumber
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Protractor , Browserstack & Speckflow
+        level: 88%
+
+      - name: Agile Methodology and DevOps
+        level: 90%
+
+      - name: Jenkins,ANT, Maven & CI/CD
+        level: 95%
+
+      - name: Java and C#
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Open Source tools, ETL Data warehouse Testing
         level: 60%
 
 footer: >
