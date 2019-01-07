@@ -82,7 +82,7 @@ education:
           - Bullet point
           - Bullet point
 
-experiences: projects:
+projects:
     - role: Test Automation Engineer 
       time: Jan 2018 - Present
       company: T-mobile Netherlands B.V. (AtoS) , The Hague
@@ -125,34 +125,6 @@ experiences: projects:
 
           - Developed iOS apps using Objective – C language
           - Worked on SQLite, Storyboards, Auto Layout , Cocoa Touch etc.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 Certifications:
     title: Publications
