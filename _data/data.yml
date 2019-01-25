@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Vikas Yadav
-    tagline: QA Test Automation Engineer
+    tagline: Agile Tester | Test Automation Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -95,28 +95,20 @@ experiences:
           - Tested ETL mappings to extract and load data from different databases such as Salesforce, Oracle and flat files and loaded them into Teradata.
           - Implemented Data Driven Framework tool to use end to end testing solution which can operate at various layers in the data warehouse architecture.
 
-    - role: Senior Test Automation Engineer
-      time: Dec 2016 - Nov 2017
-      company: Siemens Automation (AtoS) , Pune , India
+    - role: Test Engineer
+      time: Dec 2015 - Dec 2017
+      company: AtoS , Pune , India
       details: |
 
           - Expanded manual and automated testing to cover new functionality.
-          - Identify Automation Scope.
-          - Developed test scripts for GUI, functionality and regression testing using Selenium.
-          - Prepared the Manual test cases that weren't covered under Automation process.
-          - Collaborated with developers, testers and/or end users to determine appropriate solutions and ensure test planning adheres to the proper requirements.
-          - Provided reports on automation coverage, issues and prospects.
-
-    - role: Test Engineer
-      time: Jan 2016 - October 2016
-      company: WorldLine (AtoS), Pune , India
-      details: |
-
-          - Experience in Cloud based cross-browser testing tools like excellent problem-solving abilities BrowserStack.
-          - Reviewed, evaluated and identified requirements for testability.
-          - Attended meetings with quality assurance, developers and project managers to assess scope and sequence of project.
-          - Completed automation of functional and regression testing
-
+          - Experienced in Selenium Webdriver using Java, Automation automation, TestNG, and Manual Testing 
+          - Experience in Testing Web and Mobile Applications Websites and Database.
+          - Involved in Test case preparation and Test case execution based on SRS. 
+          - Involved in Installation Automation Framework on various server and Environment 
+          - Cloud based Device compatibility testing i.e Browserstack 
+          - Key contributor in Testing Center of Excellence (CoE) Enhancement framework , taking responsibility in Change request.
+          - Flexible and versatile to adapt to any environment and work on different project.
+          - I'm lucky enough to get opportunity to have work in Testing CoE experience in working various technologies and framework.
           
     - role: iOS Developer
       time: July 2015 - Nov 2015
